@@ -3,7 +3,6 @@
     require_once("./classes/Parcelas.php");
     use \classes\Parcelas;
 
-
     $objParcela1 = new Parcelas();
     
     $objParcela1->setDataParcela('1999-02-18');
